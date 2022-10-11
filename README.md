@@ -29,11 +29,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iconnell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <a href="http://www.github.com/iConnell"><img src="https://activity-graph.herokuapp.com/graph?username=iConnell&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/iConnell/todo_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iConnell&repo=todo_app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/iConnell/blog-api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iConnell&repo=blog-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/iConnell/url-shortener" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iConnell&repo=url-shortener&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/iConnell/job-scraper" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iConnell&repo=job-scraper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
